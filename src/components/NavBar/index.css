@@ -1,0 +1,19 @@
+/* Write your code here. */
+.back_ground {
+  display: flex;
+  justify-content: space-around;
+  background-color: #ffffff33;
+}
+.rightside {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  height: 50px;
+}
+p {
+  margin-right: 20px;
+}
+.left_side {
+  display: flex;
+}
